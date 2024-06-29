@@ -23,7 +23,7 @@ JINC (Jupyter Interactive Notebook Creator) is a utility project that provides a
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/jinc.git
+   git clone https://github.com/vedanta/jinc.git
    cd jinc
    ```
 
